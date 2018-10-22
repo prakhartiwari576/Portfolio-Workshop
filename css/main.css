@@ -4,7 +4,7 @@ body{
 
 .test{
 	padding: 0px;
-	background : gree;
+	background : green;
 }
 
 .nav-test{
@@ -17,14 +17,14 @@ body{
 }
 
 .main-div{
-	background: yello;
+	background: yellow;
 }
 
 .image-div{
-	background: gren;
+	background: green;
 }
 .name-div{
-	background : yelow;
+	background : yellow;
 	padding-top: 2%;
 	font-size : 22px;
 }
@@ -88,7 +88,7 @@ body{
 .attribute{
 	font: italic bold 15px Georgia, serif;
 	color: white; 
-	background: gren;
+	background: green;
 	margin-left: 5%;
 	padding: 2%;
 }
@@ -96,7 +96,7 @@ body{
 .value{
 	font: italic 15px Georgia, serif;
 	color: white;
-	background: yelow;
+	background: yellow;
 	width: 50%;
 	margin-left: 1%;
 	padding-top: 2%;
